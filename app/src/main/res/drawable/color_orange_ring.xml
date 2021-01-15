@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    android:fromDegrees="120"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:toDegrees="140">
+    <item android:id="@android:id/background">
+        <shape
+            android:angle="0"
+            android:innerRadiusRatio="2.7"
+            android:shape="ring"
+            android:thicknessRatio="8.0"
+            android:type="sweep"
+            android:useLevel="false">
+            <solid android:color="#fda88b" />
+            <size android:height="40dp" android:width="40dp"/>
+        </shape>
+    </item>
+</layer-list>

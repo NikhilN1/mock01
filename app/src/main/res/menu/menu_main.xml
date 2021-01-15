@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_flag"
+        android:title="flag"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_group"
+        android:title="group"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_add_friend"
+        android:title="friend"
+        app:showAsAction="always" />
+    <item
+        android:title="setting"
+        app:showAsAction="never" />
+</menu>
