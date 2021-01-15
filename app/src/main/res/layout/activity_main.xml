@@ -81,7 +81,7 @@
                         android:paddingTop="3dp"
                         android:paddingBottom="3dp"
                         android:text="Today"
-                        android:textSize="13sp" />
+                        android:textSize="11sp" />
 
                     <ListView
                         android:id="@+id/listView1"
@@ -97,7 +97,7 @@
                         android:paddingTop="3dp"
                         android:paddingBottom="3dp"
                         android:text="Yesterday"
-                        android:textSize="13sp" />
+                        android:textSize="11sp" />
 
                     <ListView
                         android:id="@+id/listView2"
@@ -113,7 +113,7 @@
                         android:paddingTop="3dp"
                         android:paddingBottom="3dp"
                         android:text="Earlier"
-                        android:textSize="13sp" />
+                        android:textSize="11sp" />
 
                     <ListView
                         android:id="@+id/listView3"
